@@ -1,0 +1,36 @@
+﻿Stakeholder memorandum
+
+Complete each section of the stakeholder memorandum template to communicate your audit results and recommendations to stakeholders:
+● Scope
+● Goals
+● Critical findings (must be addressed immediately)
+● Findings (should be addressed, but no immediate need)
+● Summary/Recommendations
+
+Use information from the following documents:
+● Botium Toys: Audit scope and goals
+● Controls assessment (completed in “Conduct a security audit, Part 1”)
+● Compliance checklist (completed in “Conduct a security audit, Part 1”)
+
+
+[Use the following template to create your memorandum] 
+
+TO: IT Manager, Stakeholders
+FROM: (Your Name)
+DATE: (Today’s Date)
+SUBJECT: Internal IT Audit Findings and Recommendations
+
+Dear Colleagues,
+
+Please review the following information regarding the Botium Toys internal audit scope, goals, critical findings, summary and recommendations.
+
+Scope:
+
+Goals:
+
+Critical findings (must be addressed immediately): 
+
+Findings (should be addressed, but no immediate need): 
+
+Summary/Recommendations: 
+
